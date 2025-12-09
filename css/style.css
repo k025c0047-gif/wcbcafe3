@@ -303,3 +303,11 @@ img {
   .item p {
     font-size: .875rem;
   }
+  .item-big {
+    grid-column: 1/3;
+    grid-row: 1/3;
+  }
+  .item-big img {
+    height: 94.5%;
+    width: 100%;
+  }
